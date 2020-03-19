@@ -23,7 +23,6 @@
 ---
 
 - [TedEx - Gender Based Hand Movements](http://example.com/)
-
 ---
 
 ### Database
