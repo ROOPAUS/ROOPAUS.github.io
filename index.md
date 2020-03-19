@@ -18,11 +18,12 @@
 
 ### Statistical Analysis
 
-- [Volcanic Eruptions in Holecene Period](https://github.com/ROOPAUS/Volcanic-Eruptions)
+ [Volcanic Eruptions in Holecene Period](https://github.com/ROOPAUS/Volcanic-Eruptions)
 <img src="images/volcano.PNG?raw=true"/>
 ---
 
-- [TedEx - Gender Based Hand Movements](https://github.com/ROOPAUS/Hand-Movements)
+ [TedEx - Gender Based Hand Movements](https://github.com/ROOPAUS/Hand-Movements)
+
 ---
 
 ### Database
