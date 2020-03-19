@@ -19,10 +19,10 @@
 ### Statistical Analysis
 
 - [Volcanic Eruptions in Holecene Period](http://example.com/)
-
+<img src="images/volcano.PNG?raw=true"/>
 ---
 
-- [TedEx| Gender Based Hand Movements](http://example.com/)
+- [TedEx - Gender Based Hand Movements](http://example.com/)
 
 ---
 
