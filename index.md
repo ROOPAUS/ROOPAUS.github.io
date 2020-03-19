@@ -23,7 +23,7 @@
 ---
 
  [TedEx - Gender Based Hand Movements](https://github.com/ROOPAUS/Hand-Movements)
-
+<img src="images/hand.PNG?raw=true"/>
 ---
 
 ### Database
